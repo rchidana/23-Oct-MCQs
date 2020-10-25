@@ -1,0 +1,23 @@
+Full Name : Vaishali Goel
+vaishali.b.goel
+
+1. b,c
+2. b
+3. c
+4. c
+5. a,c
+6. a,d
+7. a
+8. a,bc
+9. b
+10. a
+11. a
+12. c
+13. a,b
+14. b,c
+15. b
+16. c
+17. a,b
+18. c
+19. b
+20. b,c,d
