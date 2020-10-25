@@ -1,1 +1,20 @@
-# 23-Oct-MCQs
+b,c
+b
+c
+c
+a
+a,b,d
+a,c
+a,b,c
+c
+b
+a,b,d
+a
+c
+c
+c
+a,c
+a,b
+d
+a
+a,d
