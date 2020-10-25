@@ -1,20 +1,20 @@
-b,c
-b
-c
-c
-a
-a,b,d
-a,c
-a,b,c
-c
-b
-a,b,d
-a
-c
-c
-c
-a,c
-a,b
-d
-a
-a,d
+1> b,c
+2> b
+3> c
+4> c
+5> a
+6> a,b,d
+7> a,c
+8> a,b,c
+9> c
+10> b
+11> a,b,d
+12> a
+13> c
+14> c
+15> c
+16> a,c
+17> a,b
+18> d
+19> a
+20> a,d
