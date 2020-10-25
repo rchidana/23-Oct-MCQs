@@ -1,0 +1,23 @@
+Name:- Laxmi Yadav
+Mailid:- Laxmiy@ad
+
+1:-b,c
+2:-b
+3:-c
+4:-d
+5:-a,c
+6:-a,d
+7:-a
+8:-c
+9:-b
+10:-a
+11:-a,b,d
+12:-a
+13:-b,c
+14:-b,c
+15:-c
+16:-a,d
+17:-a,c
+18:-c
+19:-b
+20:-a,b,d
